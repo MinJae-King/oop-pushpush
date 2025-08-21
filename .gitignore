@@ -1,3 +1,23 @@
+# IDE 설정
+.idea/
+*.iml
+
+# Visual Studio 관련
+*.vcxproj
+*.filters
+*.user
+
+# 빌드 결과물
+*.exe
+*.o
+x64/
+build/
+bin/
+
+# 시스템
+.DS_Store
+Thumbs.db
+
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
